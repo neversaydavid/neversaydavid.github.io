@@ -1,0 +1,370 @@
+/* Eric Meyer's Reset CSS v2.0 - http://cssreset.com */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+@font-face{
+  font-family: ZnikomitNo24;
+  src: url('../fonts/ZnikomitNo24.otf');
+}
+body {
+  background: white url('../img/forest.jpg') center 0 fixed no-repeat;
+  background-size: cover;
+  color: rgba(0,0,0,0.8);
+  font-size: 100%;
+}
+img {
+  display: none;
+}
+.main {
+  background: rgba(255,255,255,0.3);
+  width: 510px; 
+  padding: 40px;
+  margin: 0 auto 100px;
+}
+a {
+  text-decoration: none;
+  color: rgba(0,0,0,0.8);
+}
+.youtube, a:hover {
+  background: rgba(255,255,255,1);
+}
+.youtube, a:active {
+  background: rgba(255,255,255,0.3);
+}
+.youtube {
+  display: block;
+  width: 50px;
+  height: 50px;
+  background: rgba(255,255,255,0.3);
+  font: 6rem 'Wire One', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 55px;
+  margin: 10px 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.youtube2 {
+  font-size: 3rem;
+  line-height: 54px;
+  font-weight: normal;
+}
+.first {
+  font: 3rem 'Wire One', sans-serif;
+  text-align: justify;
+  -moz-column-count: 2;
+  -moz-column-gap: 35px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 35px;
+  column-count: 2;
+  column-gap: 35px;
+}
+.last {
+  font: 5rem 'Wire One', sans-serif;
+  margin-top: -15px;
+  line-height: 3.5rem;
+  text-align: center;
+}
+h1 {
+  font: 14rem 'Wire One', sans-serif;
+  letter-spacing: -0.7rem; 
+  line-height: 12rem;
+  text-align: left;
+}
+h2 {
+  font: 4rem 'Qwigley', cursive;
+  letter-spacing: 1.2rem; 
+  line-height: 3rem;
+  text-align: center;
+}
+h3 {
+  font: 7rem 'Rye', cursive;
+  letter-spacing: -10px;
+  line-height: 9rem; 
+  text-align: center;
+}
+h4 {
+  font: 8rem 'Miss Fajardose', cursive;
+  letter-spacing: -4px;
+  line-height: 5rem; 
+  text-align: center;
+}
+h5 {
+  font: 12rem ZnikomitNo24;
+  letter-spacing: -2rem;
+  line-height: 12rem; 
+  text-align: center;
+}
+h6 {
+  font: 8rem 'Wire One', sans-serif;
+  text-align: left;
+  margin-bottom: -35px;
+}
+h6 .char1 {
+  vertical-align: top;
+  margin-left: -0.05em;
+  display: inline-block;
+  position: relative;
+  top: -0.135em;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+  font-size: 154%;
+}
+h6 .char2 {
+  vertical-align: top;
+  margin-left: 0.035em;
+  display: inline-block;
+  position: relative;
+  top: 0.191em;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+  font-size: 108%;
+}
+h6 .char3 {
+  vertical-align: top;
+  margin-left: 0.035em;
+  display: inline-block;
+  position: relative;
+  top: 0.298em;
+  -webkit-transform: rotate(-4deg);
+  -moz-transform: rotate(-4deg);
+  -ms-transform: rotate(-4deg);
+  -o-transform: rotate(-4deg);
+  transform: rotate(-4deg);
+  font-size: 95%;
+}
+h6 .char4 {
+  vertical-align: top;
+  margin-left: 0.05em;
+  display: inline-block;
+  position: relative;
+  top: 0.376em;
+  -webkit-transform: rotate(-4deg);
+  -moz-transform: rotate(-4deg);
+  -ms-transform: rotate(-4deg);
+  -o-transform: rotate(-4deg);
+  transform: rotate(-4deg);
+  font-size: 86%;
+}
+h6 .char5 {
+  vertical-align: top;
+  margin-left: 0.035em;
+  display: inline-block;
+  position: relative;
+  top: 0.475em;
+  -webkit-transform: rotate(-4deg);
+  -moz-transform: rotate(-4deg);
+  -ms-transform: rotate(-4deg);
+  -o-transform: rotate(-4deg);
+  transform: rotate(-4deg);
+  font-size: 75%;
+}
+h6 .char7 {
+  vertical-align: top;
+  margin-left: -0.057em;
+  display: inline-block;
+  position: relative;
+  top: -0.085em;
+  font-size: 144%;
+}
+h6 .char8 {
+  vertical-align: top;
+  margin-left: 0.021em;
+  display: inline-block;
+  position: relative;
+  top: 0.426em;
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  transform: rotate(3deg);
+  font-size: 80%;
+}
+h6 .char9 {
+  vertical-align: top;
+  margin-left: 0.035em;
+  display: inline-block;
+  position: relative;
+  top: 0.362em;
+  -webkit-transform: rotate(2deg);
+  -moz-transform: rotate(2deg);
+  -ms-transform: rotate(2deg);
+  -o-transform: rotate(2deg);
+  transform: rotate(2deg);
+  font-size: 89%;
+}
+h6 .char10 {
+  vertical-align: top;
+  margin-left: 0.021em;
+  display: inline-block;
+  position: relative;
+  top: 0.312em;
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  transform: rotate(3deg);
+  font-size: 96%;
+}
+h6 .char11 {
+  vertical-align: top;
+  margin-left: 0.028em;
+  display: inline-block;
+  position: relative;
+  top: 0.27em;
+  -webkit-transform: rotate(4deg);
+  -moz-transform: rotate(4deg);
+  -ms-transform: rotate(4deg);
+  -o-transform: rotate(4deg);
+  transform: rotate(4deg);
+}
+h6 .char12 {
+  vertical-align: top;
+  margin-left: 0.021em;
+  display: inline-block;
+  position: relative;
+  top: 0.156em;
+  -webkit-transform: rotate(4deg);
+  -moz-transform: rotate(4deg);
+  -ms-transform: rotate(4deg);
+  -o-transform: rotate(4deg);
+  transform: rotate(4deg);
+  font-size: 114%;
+}
+h6 .char13 {
+  vertical-align: top;
+  margin-left: 0.014em;
+  display: inline-block;
+  position: relative;
+  top: -0.163em;
+  -webkit-transform: rotate(4deg);
+  -moz-transform: rotate(4deg);
+  -ms-transform: rotate(4deg);
+  -o-transform: rotate(4deg);
+  transform: rotate(4deg);
+  font-size: 159%;
+}
+
+.auto-resizable-iframe {
+  max-width: 100%;
+  margin: 0px auto;
+}
+
+.auto-resizable-iframe > div {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+  padding-bottom: 75%;
+  height: 0px;
+}
+
+.auto-resizable-iframe iframe {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 590px) {
+    
+  body {
+    background: rgba(240,240,240,1);
+    color: rgba(50,50,50,1);
+    font-size: 100%;
+  }
+  img {
+    display: inline;
+    max-width: 100%;
+  }
+
+
+  a {
+  text-decoration: none;
+  color: rgba(255,255,255,255.8);
+  }
+  .youtube, a:hover {
+    background: rgba(0,0,0,1);
+  }
+  .youtube, a:active {
+    background: rgba(0,0,0,0.3);
+  }
+  .youtube {
+    background: rgba(0,0,0,0.3);
+  }
+
+
+  .main {
+    background: rgba(240,240,240,1);
+    width: 300px; 
+    padding: 40px 5px;
+    margin: 0 auto;
+    border-radius: 0;
+  }
+  .first {
+    font: 2.5rem 'Wire One', sans-serif;
+    text-align: justify;
+    -moz-column-count: 1;
+    -moz-column-gap: 0;
+    -webkit-column-count: 1;
+    -webkit-column-gap: 0;
+    column-count: 1;
+    column-gap: 0;
+  }
+  .last {
+    font: 3rem 'Wire One', sans-serif;
+    margin-top: -15px;
+    line-height: 3rem;
+    text-align: center;
+  }
+  h1 {
+    font: 9.5rem 'Wire One', sans-serif;
+    letter-spacing: -0.7rem; 
+    line-height: 8rem;
+  }
+  h2 {
+    font: 2rem 'Qwigley', cursive;
+    letter-spacing: 0.8rem; 
+    line-height: 1.8rem;
+  }
+  h3 {
+    font: 4.5rem 'Rye', cursive;
+    letter-spacing: -10px;
+    line-height: 5rem; 
+  }
+  h4 {
+    font: 4rem 'Miss Fajardose', cursive;
+    letter-spacing: -4px;
+    line-height: 3rem; 
+  }
+  h5 {
+    font: 8.8rem ZnikomitNo24;
+    letter-spacing: -2rem;
+    line-height: 8rem; 
+    text-align: left;
+  }
+  h6 {
+    font: 3rem 'Wire One', sans-serif;
+    text-align: center;
+  }
+
+  /*VIDEO*/
+  /*.video-container iframe,
+  .video-container object,
+  .video-container embed {
+    position: relative;
+    top: 0%;
+    left: 0;
+    width: 100%;
+    max-width: 900px;
+    height: 100%;
+    max-height: 675px;
+  }*/
+
+}
