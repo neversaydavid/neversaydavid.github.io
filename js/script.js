@@ -33,12 +33,14 @@ $(document).ready(function ($) {
         });
     });
 
-    // Collapse the mobile navbar on click
+    // Collapse the mobile navbar on click and hide/show it on scroll
     if ($(window).width() < 768) {
+        $("#navbar").scrollNav({"bootstrap_mobile": true});
         $(window).on('click', function() {
             $('.navbar-collapse').collapse('hide');
         });
     }
 
     $(".fancybox").fancybox();
+
 });
