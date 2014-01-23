@@ -37,7 +37,9 @@ $(document).ready(function ($) {
     if ($(window).width() < 768) {
         $("#navbar").scrollNav({"bootstrap_mobile": true});
         $(window).on('click', function() {
-            $('.navbar-collapse').collapse('hide');
+            if($(".navbar-toggle.collapsed").length === 0){
+                $('.navbar-collapse').collapse('hide');   
+            }
         });
     }
 
