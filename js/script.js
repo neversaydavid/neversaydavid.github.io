@@ -35,7 +35,7 @@ $(document).ready(function ($) {
 
     // Collapse the mobile navbar on click and hide/show it on scroll
     if ($(window).width() < 768) {
-        $("#navbar").scrollNav({"bootstrap_mobile": true});
+        $(".navbar").scrollNav({"bootstrap_mobile": true});
         $(window).on('click', function() {
             if($(".navbar-toggle.collapsed").length === 0){
                 $('.navbar-collapse').collapse('hide');   
