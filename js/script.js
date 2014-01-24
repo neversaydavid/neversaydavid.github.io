@@ -1,5 +1,7 @@
 $(document).ready(function ($) {
 
+    $('body').css('opacity', '0').fadeTo(2000, 1,'swing'); 
+
     // Isotope
     var $container = $('#container');
     // initialize isotope
