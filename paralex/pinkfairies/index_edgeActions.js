@@ -94,7 +94,7 @@ audio.attr('preload','auto');
       Symbol.bindElementAction(compId, symbolName, "${_neverland}", "click", function(sym, e) {
          // Navigate to a new URL in the current window
          // (replace "_self" with appropriate target attribute for a new window)
-         window.open("http://youtu.be/glczspezQac?t=1m6s", "_self");
+         window.open("https://youtu.be/bICoJ7TGD9g?t=1m6s", "_self");
          
 
       });
