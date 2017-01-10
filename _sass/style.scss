@@ -1,0 +1,70 @@
+body {
+  @extend .yellow, .lighten-5;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.nav-wrapper {
+  @extend .deep-orange, .accent-4;
+}
+
+.btn-floating {
+  @extend .z-depth-0;
+}
+
+.btn-floating:hover {
+  .material-icons:hover {
+    font-size: 29px;
+    }
+}
+
+.wrapper {
+  padding: 4rem 0 10rem 0;
+}
+
+.col.jumbotron {
+  @extend .deep-orange, .accent-4;
+  padding-bottom: 4rem;
+}
+
+.card-title {
+  @extend .deep-orange, .accent-4;
+}
+
+// .card:hover .card-title {
+//   @extend .z-depth-4;
+// }
+
+.wrapper h2 a:hover {
+  border-bottom: 2px dashed #dd2c00;
+}
+
+.post-img {
+  margin-bottom: 2rem;
+}
+
+.material-icons {
+  font-size: 24px;
+}
+
+.material-icons:hover {
+  // font-size: 27px;
+}
+
+// responsive video
+.embed-container { 
+  position: relative; 
+  padding-bottom: 56.25%; 
+  height: 0; 
+  overflow: hidden; 
+  max-width: 100%; 
+  @extend .z-depth-2;
+} 
+
+.embed-container iframe, .embed-container object, .embed-container embed { 
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%; 
+}
+

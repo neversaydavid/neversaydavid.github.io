@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "RECORD COVER"
+date:   2016-11-20 10:59:50 +0100
+thumbnail: "images/gra_ball01_thumb.jpg"
+images:
+ - "/images/gra_ball01_01.jpg"
+ - "/images/gra_ball01_02.jpg"
+ - "/images/gra_ball01_03.jpg"
+ - "/images/gra_ball01_04.jpg"
+---
+
+<a href="http://ball666.biz/">BALL</a> - Fyre, 7". Made for <a href="https://www.facebook.com/Horny-Records-1080482608635086/">Horny Records</a>.
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "STICKER"
+date:   2016-11-20 10:57:50 +0100
+thumbnail: "images/gra_rundgang01_thumb.jpg"
+images:
+ - "/images/gra_rundgang01_01.jpg"
+ - "/images/gra_rundgang01_02.jpg"
+ - "/images/gra_rundgang01_03.jpg"
+---
+
+Made for Malmö's finest record store <a href="http://www.rundgong.se/">RUNDGÅNG</a> as a tribute to another but long gone record store called <a href="http://rollisrecords.tripod.com/">Rolli's</a>.
+

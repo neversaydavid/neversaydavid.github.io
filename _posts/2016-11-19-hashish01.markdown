@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "RECORD COVER"
+date:   2016-11-20 10:59:50 +0100
+thumbnail: "images/gra_hashish01_thumb.jpg"
+images:
+ - "/images/gra_hashish01_01.jpg"
+ - "/images/gra_hashish01_02.jpg"
+ - "/images/gra_hashish01_03.jpg"
+---
+
+<a href="https://www.facebook.com/hashishsounds/">HASHISH</a> - Outer Spaced, 7". Made for <a href="http://www.subliminalsounds.se/">Subliminal Sounds</a>.

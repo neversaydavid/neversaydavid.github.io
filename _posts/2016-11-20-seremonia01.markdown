@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "MUSIC VIDEO"
+date:   2016-11-20 10:59:50 +0100
+thumbnail: "images/vid_seremonia01_thumb.jpg"
+---
+
+<a href="https://www.facebook.com/Seremonia666/">SEREMONIA</a> - Tee mitä tahdot. Made for <a href="https://http://svartrecords.com/">Svart Records</a>.
+
+<div class='embed-container'>
+  <iframe src='https://www.youtube.com/embed/3JrDPXQo5KU?rel=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe>
+</div>

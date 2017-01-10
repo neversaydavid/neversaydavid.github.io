@@ -1,0 +1,56 @@
+---
+layout: default
+<!-- title: About -->
+permalink: /about/
+---
+
+<!-- <nav>
+  <div class="nav-wrapper">
+    <a href="/index" class="brand-logo right"><i class="material-icons">arrow_back</i></a>
+  </div>
+</nav> -->
+
+<nav>
+  <div class="nav-wrapper">
+    <a href="/index" class="btn-floating btn-large deep-orange accent-4 right"><i class="material-icons">arrow_back</i></a>
+  </div>
+</nav>
+
+<!-- <div class="container">
+  <div class="row">
+    <div class="three columns">&nbsp;</div>
+    <div class="six columns">
+     <img class="u-max-full-width" src="/images/about.jpg">
+   </div>
+   <div class="three columns">&nbsp;</div>
+ </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="offset-by-one ten columns">
+
+      <h1>HERRO!</h1>
+      <p>Jag är en supertrevlig liten kille som bland annat älskar tidiga Black Sabbath, samla på bra obskyra och alldeles för dyra gamla skivor och att spela med bandet.</p>
+      <a href="mailto:&#110;&#101;&#118;&#101;&#114;&#115;&#097;&#121;&#100;&#097;&#118;&#105;&#100;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" class="push_button">neversaydavid@gmail.com</a>
+    </div>
+  </div>
+</div> -->
+
+
+<div class="container wrapper">
+
+  <div class="row">
+
+    <div class="col s8 offset-s2 m4 offset-m4">
+      <img class="responsive-img" src="/images/about.jpg">
+    </div>
+    <div class="col s12 m8 offset-m2">
+      <h1>Hi!</h1>
+      <h2 class="flow-text">Jag är en supertrevlig liten kille som bland annat älskar tidiga Black Sabbath, samla på bra obskyra och alldeles för dyra gamla skivor och att spela med bandet. 
+      <a href="mailto:&#110;&#101;&#118;&#101;&#114;&#115;&#097;&#121;&#100;&#097;&#118;&#105;&#100;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" class="push_button">neversaydavid@gmail.com</a> </h2>
+    </div>
+    
+  </div>
+
+</div>
