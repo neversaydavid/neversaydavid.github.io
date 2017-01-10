@@ -4,39 +4,11 @@ layout: default
 permalink: /about/
 ---
 
-<!-- <nav>
-  <div class="nav-wrapper">
-    <a href="/index" class="brand-logo right"><i class="material-icons">arrow_back</i></a>
-  </div>
-</nav> -->
-
 <nav>
   <div class="nav-wrapper">
     <a href="/index" class="btn-floating btn-large deep-orange accent-4 right"><i class="material-icons">arrow_back</i></a>
   </div>
 </nav>
-
-<!-- <div class="container">
-  <div class="row">
-    <div class="three columns">&nbsp;</div>
-    <div class="six columns">
-     <img class="u-max-full-width" src="/images/about.jpg">
-   </div>
-   <div class="three columns">&nbsp;</div>
- </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="offset-by-one ten columns">
-
-      <h1>HERRO!</h1>
-      <p>Jag är en supertrevlig liten kille som bland annat älskar tidiga Black Sabbath, samla på bra obskyra och alldeles för dyra gamla skivor och att spela med bandet.</p>
-      <a href="mailto:&#110;&#101;&#118;&#101;&#114;&#115;&#097;&#121;&#100;&#097;&#118;&#105;&#100;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" class="push_button">neversaydavid@gmail.com</a>
-    </div>
-  </div>
-</div> -->
-
 
 <div class="container wrapper">
 
@@ -47,10 +19,11 @@ permalink: /about/
     </div>
     <div class="col s12 m8 offset-m2">
       <h1>Hi!</h1>
-      <h2 class="flow-text">Jag är en supertrevlig liten kille som bland annat älskar tidiga Black Sabbath, samla på bra obskyra och alldeles för dyra gamla skivor och att spela med bandet. 
-      <a href="mailto:&#110;&#101;&#118;&#101;&#114;&#115;&#097;&#121;&#100;&#097;&#118;&#105;&#100;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" class="push_button">neversaydavid@gmail.com</a> </h2>
+      <h2 class="flow-text">I'm a super nice little guy who loves early <a href="https://youtu.be/v6l0Co3EE6k">Black Sabbath</a>, collecting old and obscure records and playing with my band. Right now I'm studying Original/Prepress at Universitetsholmen in Malmö. 
+        <blockquote><a href="mailto:&#110;&#101;&#118;&#101;&#114;&#115;&#097;&#121;&#100;&#097;&#118;&#105;&#100;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;" class="push_button">neversaydavid@gmail.com</a></blockquote></h2>
+
     </div>
-    
+
   </div>
 
 </div>

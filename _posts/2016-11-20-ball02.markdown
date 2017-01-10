@@ -1,0 +1,16 @@
+---
+layout: post
+title: BALL - Fyre Balls
+category: music video
+date:   2016-11-20 10:59:50 +0100
+thumbnail: "images/vid_ball01_thumb.jpg"
+---
+
+Music video made for <a href="http://ball666.biz/">BALL</a>, <a href="https://www.facebook.com/Horny-Records-1080482608635086/">Horny Records</a> and <a href="http://waxploitation.com/">Waxploitation Records</a>.
+
+<div class='embed-container'>
+	<iframe src='https://www.youtube.com/embed/YWcdnyYF7C0?rel=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe>
+</div>
+
+
+
