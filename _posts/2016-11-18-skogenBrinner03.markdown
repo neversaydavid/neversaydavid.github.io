@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "RECORD COVER"
+title: SKOGEN BRINNER - Mr. Fantastic
+category: record cover
 date:   2016-10-20 10:59:50 +0100
 thumbnail: "images/gra_skogenBrinner03_thumb.jpg"
 images:
@@ -10,4 +11,4 @@ images:
  - "/images/gra_skogenBrinner03_04.jpg"
 ---
 
-<a href="https://www.facebook.com/skogenbrinner/">SKOGEN BRINNER</a> - Mr. Fantastic, 7". Made for <a href="http://www.subliminalsounds.se/">Subliminal Sounds</a>.
+Single record cover made for <a href="https://www.facebook.com/skogenbrinner/">SKOGEN BRINNER</a> and <a href="http://www.subliminalsounds.se/">Subliminal Sounds</a>.

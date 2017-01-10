@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "RECORD COVER"
+title: HASHISH - A Product of Hashish
+category: record cover
 date:   2016-11-20 10:59:50 +0100
 thumbnail: "images/gra_hashish02_thumb.jpg"
 images:
@@ -10,4 +11,4 @@ images:
  - "/images/gra_hashish02_04.jpg"
 ---
 
-<a href="https://www.facebook.com/hashishsounds/">HASHISH</a> - A Product of Hashish, LP. Made for both <a href="http://www.woahdad.com/">Woah Dad!</a> and <a href="http://www.subliminalsounds.se/">Subliminal Sounds</a>. Printed on silver foil.
+LP record cover made for <a href="https://www.facebook.com/hashishsounds/">HASHISH</a>, <a href="http://www.woahdad.com/">Woah Dad!</a> and <a href="http://www.subliminalsounds.se/">Subliminal Sounds</a>. Printed on silver foil.

@@ -28,6 +28,7 @@ body {
 
 .card-title {
   @extend .deep-orange, .accent-4;
+  text-transform: uppercase;
 }
 
 // .card:hover .card-title {

@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "MUSIC VIDEO"
+title: THE DAHMERS - Blood on My Hands
+category: music video
 date:   2016-11-20 10:59:50 +0100
 thumbnail: "images/vid_theDahmers01_thumb.jpg"
 ---
 
-<a href="https://www.facebook.com/Dahmers/">THE DAHMERS</a> - Blood on My Hands. For <a href="https://www.facebook.com/LLYrecords/">Lövely Records</a>.
+Music video made for <a href="https://www.facebook.com/Dahmers/">THE DAHMERS</a> and <a href="https://www.facebook.com/LLYrecords/">Lövely Records</a>.
 
 <div class='embed-container'>
 	<iframe src='https://www.youtube.com/embed/-DCwsBHAyLo?rel=0&amp;showinfo=0' frameborder='0' allowfullscreen></iframe>
