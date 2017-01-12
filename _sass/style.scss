@@ -13,8 +13,8 @@ body {
 
 .btn-floating:hover {
   .material-icons:hover {
-    font-size: 29px;
-    }
+  font-size: 29px;
+  }
 }
 
 .wrapper {
@@ -69,3 +69,8 @@ body {
   height: 100%; 
 }
 
+@media #{$small-and-down} {
+  h1 {
+    font-size: 2.2rem;
+  }
+}
