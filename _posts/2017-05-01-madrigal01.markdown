@@ -2,7 +2,7 @@
 layout: post
 title: MADRIGAL - s/t
 category: record cover
-date:   2017-05-01 10:59:50 +0100
+date:   2017-05-02 10:59:50 +0100
 thumbnail: "images/gra_madrigalCover01_thumb.jpg"
 images:
  - "/images/gra_madrigalCover01.jpg"
@@ -17,4 +17,4 @@ images:
  - "/images/gra_madrigalBooklet07.jpg"      
 ---
 
-A <a href="http://www.recordstoreday.se/">Record Store Day 2017</a> version of this 1971 private pressed holy grail LP by <a href="http://www.popsike.com/Madrigal-ST-Private-Psych-Outsider-LP-EX/391590943979.html">Madrigal</a> for <a href="http://www.subliminalsounds.se/">Subliminal Sounds</a>. Also included in this limited reissue was a 12 page booklet.
+A <a href="http://www.recordstoreday.se/">Record Store Day 2017</a> version of this 1971 private pressed holy grail LP by <a href="http://www.popsike.com/Madrigal-ST-Private-Psych-Outsider-LP-EX/391590943979.html">MADRIGAL</a> for <a href="http://www.subliminalsounds.se/">Subliminal Sounds</a>. Also included in this limited reissue was a 12 page booklet.

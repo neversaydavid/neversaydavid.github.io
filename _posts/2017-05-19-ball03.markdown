@@ -1,0 +1,15 @@
+---
+layout: post
+title: BALL - s/t
+category: record cover
+date:   2017-05-01 10:59:50 +0100
+thumbnail: "images/gra_ball03_thumb.jpg"
+images:
+ - "/images/gra_ball03_01.jpg"
+ - "/images/gra_ball03_02.jpg"
+ - "/images/gra_ball03_03.jpg"
+ - "/images/gra_ball03_04.jpg"
+---
+
+LP record cover made for <a href="http://ball666.biz/">BALL</a> and <a href="https://www.facebook.com/Horny-Records-1080482608635086/">Horny Records</a>.
+

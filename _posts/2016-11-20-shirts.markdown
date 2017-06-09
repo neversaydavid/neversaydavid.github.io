@@ -1,0 +1,16 @@
+---
+layout: post
+title: MERCHANDISE
+category: t-shirt prints
+date:   2016-11-20 09:59:50 +0100
+thumbnail: "images/gra_shirt_thumb.jpg"
+images:
+ - "/images/gra_shirt04.jpg"
+ - "/images/gra_shirt03.jpg"
+ - "/images/gra_shirt02.jpg"
+ - "/images/gra_shirt01.jpg"
+---
+
+Some t-shirts I've done.
+
+
